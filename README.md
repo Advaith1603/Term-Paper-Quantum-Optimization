@@ -4,7 +4,7 @@ This project demonstrates the Quantum Approximate Optimization Algorithm (QAOA) 
 
 ## Files
 
-- Term_paper_demo.ipynb — Recommended. A narrated, step-by-step notebook where each sub-process is explained and run one at a time.
+- Term_paper_demo.ipynb — A step-by-step notebook where each sub-process is explained and run one at a time.
 
 ## Requirements
 
